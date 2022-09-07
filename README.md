@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Manasvini1106
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning operating systems
+- 👀 I’m interested in Machine Learning
+- 🌱 I’m currently pursuing MS CS (ML concentration) from Rutgers - New Brunswick
 - 💞️ I’m looking to collaborate on Data Science/ AI/ ML projects
 - 📫 How to reach me on my mail id saeeshasid@gmail.com
 
