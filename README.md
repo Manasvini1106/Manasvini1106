@@ -55,7 +55,7 @@ I'm a Computer Science graduate student at Rutgers University-New Brunswick <img
 ---
 ### 💻 My Portfolio : 
 <div>
-  <a href = "https://manasvini1106.github.io/Manasvini1106.io/" target = "_blank">Manasvini Nittala</a>
+  <a href = "https://manasvini1106.github.io/Manasvini1106.io/" target = "_blank">Click Here to see my Portfolio!</a>
   <img src = ".github/portfolio.png" width = "100%" height = "100%"/>
 </div>
 
