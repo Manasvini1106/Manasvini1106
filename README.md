@@ -45,6 +45,10 @@ I'm a Computer Science graduate student at Rutgers University-New Brunswick <img
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title = "Anaconda" alt = "Anaconda" width = "40" height = "40"/>&nbsp;
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title = "Arduino" alt = "Arduino" width = "40" height = "40"/>&nbsp;
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title = "Flask" alt = "Flask" width = "40" height = "40"/>&nbsp;
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title = "Jupyter" alt = "Jupyter" width = "40" height = "40"/>&nbsp;
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title = "OpenCV" alt = "OpenCV" width = "40" height = "40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
